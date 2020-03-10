@@ -23,7 +23,7 @@ body {
 h1 {
 	font-family: 'Gilroy', sans-serif;
 	font-size: 100px;
-	font-weight: 700; 
+	font-weight: 700;
 	color: #fce91c;
 	/* color: #000; */
 	margin: 0;
@@ -32,7 +32,7 @@ h1 {
 h2 {
 	font-family: 'Gilroy', sans-serif;
 	font-size: 36px;
-	font-weight: 700; 
+	font-weight: 700;
 	color: #fce91c;
 	margin: 0;
 	margin-bottom: 28px;
@@ -41,7 +41,7 @@ h2 {
 h3 {
 	font-family: 'Gilroy', sans-serif;
 	font-size: 25px;
-	font-weight: 600; 
+	font-weight: 600;
 	color: #000;
 	margin: 0;
 }
@@ -49,7 +49,7 @@ h3 {
 p {
 	font-family: 'Gilroy', sans-serif;
 	font-size: 20px;
-	font-weight: 400; 
+	font-weight: 400;
 	color: #fce91c;
 	/* color: #131720; */
 	margin: 0;
@@ -59,7 +59,7 @@ p {
 ul {
 	font-family: 'Gilroy', sans-serif;
 	font-size: 18px;
-	font-weight: 400; 
+	font-weight: 400;
 	color: #000;
 	/* color: #131720; */
 	margin: 0;
@@ -136,7 +136,7 @@ a, a:hover, a:visited {
 }
 
 .learn-more-link {
-	font-weight: 700; 
+	font-weight: 700;
 	color: #000!important;
 	font-size: 18px;
 	margin-left: 20px;
@@ -257,7 +257,7 @@ a, a:hover, a:visited {
 
 .btn-primary{
   	font-family: 'Gilroy', sans-serif;
-	font-weight: 700; 
+	font-weight: 700;
 	color: #000!important;
 	text-shadow: none!important;
 	-webkit-text-shadow: none!important;
@@ -266,7 +266,7 @@ a, a:hover, a:visited {
 	font-size: 18px;
 	text-align: center;
 	border-radius: 3px !important;
-	background: #fce91c; 
+	background: #fce91c;
   	transition: all 300ms ease-in-out 0s;
 	height: 50px;
 	min-width: 140px;
@@ -276,7 +276,7 @@ a, a:hover, a:visited {
 	border: none;
 }
 
-.btn-primary:hover {  
+.btn-primary:hover {
   background: #fced4a;
   transition: background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
 }
@@ -315,14 +315,14 @@ body #universal-footer {
 	margin-left: 10px;
 	margin-right: 0;
 }
-  
+
   /* Hide default HTML checkbox */
   .switch input {
 	opacity: 0;
 	width: 0;
 	height: 0;
   }
-  
+
   /* The slider */
 
   .slider {
@@ -336,7 +336,7 @@ body #universal-footer {
 	-webkit-transition: .4s;
 	transition: .4s;
   }
-  
+
   .slider:before {
 	position: absolute;
 	content: "";
@@ -348,26 +348,26 @@ body #universal-footer {
 	-webkit-transition: .4s;
 	transition: .4s;
   }
-  
+
   input:checked + .slider {
 	background-color: #770000;
   }
-  
+
   input:focus + .slider {
 	box-shadow: 0 0 1px #000;
   }
-  
+
   input:checked + .slider:before {
 	-webkit-transform: translateX(16px);
 	-ms-transform: translateX(16px);
 	transform: translateX(16px);
   }
-  
+
   /* Rounded sliders */
   .slider.round {
 	border-radius: 34px;
   }
-  
+
   .slider.round:before {
 	border-radius: 50%;
   }
@@ -457,9 +457,3 @@ body #universal-footer {
 	}
 
 }
-
-
-
-
-
-
